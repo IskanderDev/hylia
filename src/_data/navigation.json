@@ -6,14 +6,26 @@
       "external": false
     },
     {
-      "text": "GitHub",
-      "url": "https://github.com/hankchizljaw/hylia",
-      "external": true
+      "text": "Über Mich",
+      "url": "/uebermich",
+      "external": false
     },
     {
-      "text": "Example Contact Page",
+      "text": "Kontakt",
       "url": "/contact",
       "external": false
+    },
+    {
+      "text": "Osteopathie",
+      "url": "/osteopathie_muenchen"
+    },
+    {
+      "text": "Naturheilkunde",
+      "url": "/naturheilkunde_muenchen"
+    },
+    {
+      "text": "Atmung_und_Asthma",
+      "url": "/atmung_asthma"
     }
   ]
 }
