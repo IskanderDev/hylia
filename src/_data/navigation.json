@@ -6,16 +6,6 @@
       "external": false
     },
     {
-      "text": "Über Mich",
-      "url": "/uebermich",
-      "external": false
-    },
-    {
-      "text": "Kontakt",
-      "url": "/contact",
-      "external": false
-    },
-    {
       "text": "Osteopathie",
       "url": "/osteopathie_muenchen"
     },
@@ -26,6 +16,16 @@
     {
       "text": "Atmung_und_Asthma",
       "url": "/atmung_asthma"
+    },
+    {
+      "text": "Über Mich",
+      "url": "/uebermich",
+      "external": false
+    },
+    {
+      "text": "Kontakt",
+      "url": "/contact",
+      "external": false
     }
   ]
 }
